@@ -17,3 +17,6 @@ El proyecto se usa para controlar robots con  4 DOF ("Grados de libertad").
     Debe de contener un botón de paro de emergencia (Físico).
     Si existe un fallo y/o corte de energía, después de restablecerse la corriente el robot debe de continuar el programa (aunque este no se encuentre conectado a la aplicación).
     Los brazos robóticos se pueden clasificar de acuerdo con el número de "articulaciones" o "Grados de libertad" (DOF) que tienen. La "Base", o "Cintura", por lo general puede girar el brazo 180o o 360o, dependiendo del   tipo de Servo utilizado (aquí en este proyecto, se debe utilizar un motor a pasos para girar 360o). El "Hombro" es el responsable de "levantar o bajar" el brazo verticalmente. El "codo" hará que el brazo "avance o retroceda". La "Garra" o "Pinza" funciona abriendo o cerrándose para "agarrar cosas".
+
+# Diagrama del brazo robotico:
+![diagrama del brazo robotico](https://user-images.githubusercontent.com/22648194/40197387-f09fd6c2-59d8-11e8-836f-5353b86a4ef0.png)
