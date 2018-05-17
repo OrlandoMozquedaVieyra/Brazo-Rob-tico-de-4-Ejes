@@ -29,3 +29,10 @@ Se muestra la interfaz desarrollada en java para poder hacer la comunicación y 
 ![captura de pantalla 7](https://user-images.githubusercontent.com/22648194/40204128-0f64cee6-59ed-11e8-8d17-df285c25ae13.png)
 ![captura de pantalla 8](https://user-images.githubusercontent.com/22648194/40204131-0f81442c-59ed-11e8-951f-d2f4d17ed334.png)
 ![captura de pantalla 9](https://user-images.githubusercontent.com/22648194/40204132-0f9e7e84-59ed-11e8-9a0f-7ccdbd344536.png)
+
+# Fotos del brazo ya funcionando y programado.
+![diagrama del brazo robotico](https://user-images.githubusercontent.com/22648194/40204583-ab146a9e-59ee-11e8-99c3-ab336fa0f9d3.png)
+![img_1745](https://user-images.githubusercontent.com/22648194/40204584-ab2cf97e-59ee-11e8-9a1d-52e073ffc1ce.png)
+![img_1746](https://user-images.githubusercontent.com/22648194/40204585-ab46ed34-59ee-11e8-9b32-8110352a8d05.png)
+![img_1747](https://user-images.githubusercontent.com/22648194/40204586-ab650fa8-59ee-11e8-80b8-71772db9caac.png)
+![img_1748](https://user-images.githubusercontent.com/22648194/40204587-ab885fe4-59ee-11e8-8f57-1e6bd5074d41.png)
