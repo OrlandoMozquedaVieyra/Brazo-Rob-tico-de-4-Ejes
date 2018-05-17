@@ -22,8 +22,7 @@ El proyecto se usa para controlar robots con  4 DOF ("Grados de libertad").
 ![diagrama del brazo robotico](https://user-images.githubusercontent.com/22648194/40197564-66515490-59d9-11e8-8a2c-09ff35d4bb61.png)
 
 # Interfaz de comunicación desarrollada en Java.
-Se muestra la interfaz desarrollada en java para poder hacer la comunicación y poder programar el brazo robotico.
-En cada imagen que se muestra podemos ver como hace la comunicacion primero hacia el arduino, despues se programa con los botones que tiene el programa. Despues va mandar lo que se programo para que lo realice hasta que se precione el boton de abortar.
+Se muestra la interfaz desarrollada en java para poder hacer la comunicación y poder programar el brazo robotico. En cada imagen que se muestra podemos ver como hace la comunicacion primero hacia el arduino, despues se programa con los botones que tiene el programa. Despues va mandar lo que se programo para que lo realice hasta que se precione el boton de abortar.
 ![captura de pantalla 4](https://user-images.githubusercontent.com/22648194/40204125-0f06a172-59ed-11e8-924c-2bc08cfbac62.png)
 ![captura de pantalla 5](https://user-images.githubusercontent.com/22648194/40204126-0f27e8a0-59ed-11e8-8c26-c166fa0298bf.png)
 ![captura de pantalla 6](https://user-images.githubusercontent.com/22648194/40204127-0f495f4e-59ed-11e8-818e-4df3fd2d4793.png)
