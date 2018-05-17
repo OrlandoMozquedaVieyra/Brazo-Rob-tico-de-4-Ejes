@@ -20,3 +20,18 @@ El proyecto se usa para controlar robots con  4 DOF ("Grados de libertad").
 
 # Diagrama del brazo robótico:
 ![diagrama del brazo robotico](https://user-images.githubusercontent.com/22648194/40197564-66515490-59d9-11e8-8a2c-09ff35d4bb61.png)
+
+# Interfaz de comunicación desarrollada en Java.
+Se muestra la interfaz desarrollada en java para poder hacer la comunicación y poder programar el brazo robotico. En cada imagen que se muestra podemos ver como hace la comunicacion primero hacia el arduino, despues se programa con los botones que tiene el programa. Hasta que se precione el boton de abortar va dejar de realizar lo que tiene programado.
+![captura de pantalla 4](https://user-images.githubusercontent.com/22648194/40204125-0f06a172-59ed-11e8-924c-2bc08cfbac62.png)
+![captura de pantalla 5](https://user-images.githubusercontent.com/22648194/40204126-0f27e8a0-59ed-11e8-8c26-c166fa0298bf.png)
+![captura de pantalla 6](https://user-images.githubusercontent.com/22648194/40204127-0f495f4e-59ed-11e8-818e-4df3fd2d4793.png)
+![captura de pantalla 7](https://user-images.githubusercontent.com/22648194/40204128-0f64cee6-59ed-11e8-8d17-df285c25ae13.png)
+![captura de pantalla 8](https://user-images.githubusercontent.com/22648194/40204131-0f81442c-59ed-11e8-951f-d2f4d17ed334.png)
+![captura de pantalla 9](https://user-images.githubusercontent.com/22648194/40204132-0f9e7e84-59ed-11e8-9a0f-7ccdbd344536.png)
+
+# Fotos del brazo ya funcionando y programado.
+![img_1745](https://user-images.githubusercontent.com/22648194/40204846-93551268-59ef-11e8-8cb2-0caf0a0c8cee.png)
+![img_1746](https://user-images.githubusercontent.com/22648194/40204847-936ee030-59ef-11e8-8b1d-7b149eeabc74.png)
+![img_1747](https://user-images.githubusercontent.com/22648194/40204848-9387b736-59ef-11e8-8fc0-0060057fe57a.png)
+![img_1748](https://user-images.githubusercontent.com/22648194/40204849-93a737dc-59ef-11e8-92f5-a36f35298ed0.png)
