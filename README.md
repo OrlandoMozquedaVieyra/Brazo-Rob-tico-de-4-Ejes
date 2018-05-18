@@ -31,7 +31,7 @@ Se muestra la interfaz desarrollada en java para poder hacer la comunicación y 
 ![captura de pantalla 9](https://user-images.githubusercontent.com/22648194/40204132-0f9e7e84-59ed-11e8-9a0f-7ccdbd344536.png)
 
 # Fotos del brazo ya funcionando y programado.
-Se muestran las imagenes que se tomaron como evidencia del funcionamiento del brazo robotico.
+Se muestran las imagenes que se tomaron como evidencia del funcionamiento del brazo robotico. Para poder ver como funciona todo el circuito para que se mueva y ver cuando se presiona el boton de abortar se detiene todo.
 ![img_1745](https://user-images.githubusercontent.com/22648194/40204846-93551268-59ef-11e8-8cb2-0caf0a0c8cee.png)
 ![img_1746](https://user-images.githubusercontent.com/22648194/40204847-936ee030-59ef-11e8-8b1d-7b149eeabc74.png)
 ![img_1747](https://user-images.githubusercontent.com/22648194/40204848-9387b736-59ef-11e8-8fc0-0060057fe57a.png)
