@@ -35,3 +35,4 @@ Se muestra la interfaz desarrollada en java para poder hacer la comunicación y 
 ![img_1746](https://user-images.githubusercontent.com/22648194/40204847-936ee030-59ef-11e8-8b1d-7b149eeabc74.png)
 ![img_1747](https://user-images.githubusercontent.com/22648194/40204848-9387b736-59ef-11e8-8fc0-0060057fe57a.png)
 ![img_1748](https://user-images.githubusercontent.com/22648194/40204849-93a737dc-59ef-11e8-92f5-a36f35298ed0.png)
+![img_1712](https://user-images.githubusercontent.com/22648194/40205122-7f6942b4-59f0-11e8-84ed-2c14620ee72a.png)
